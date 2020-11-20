@@ -1,5 +1,5 @@
 # ICS4UO
-**Assignments:**
+**Programming Assignments:**
 
  - Greetings -> Assignment 1.3
  - Sleep Calculator -> Assignment 1.4
@@ -13,3 +13,10 @@
  - TicTac -> Assignment 2.5
  - EmployeeRecords -> Assignment 2.6
  - AirlinePoints -> Assignment 2.7
+ - Fibonacci -> Assignment 3.2
+ - ReduceFraction -> Assignment 3.2
+ - NChooseR -> Assignment 3.2
+ - ChildrenBook -> Assignment 3.3
+ - SortingRoutines -> Assignment 3.4
+ - SortingEfficiencies -> Assignment 3.4
+ - XMLCreate -> Assignment 3.5
